@@ -1,0 +1,5 @@
+# Ignore text and documents files
+
+*.txt
+.*doc
+

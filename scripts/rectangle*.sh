@@ -5,7 +5,7 @@ cd rectangle*
 
 
 
-read -p "Enter width" width
+read -p "Enter width:" width
 read -p "ENter length:" length
 
 for ((i=1; i<=length; i++)); do
